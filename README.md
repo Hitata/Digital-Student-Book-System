@@ -15,22 +15,22 @@ A Program that can extract and understand numbers (0-9) from an photographed ima
 
 Program consist of 3 part.
 
-1. Image Processing:
+	1. Image Processing:
 
-- Algorithm for Grayscale image, Binary image, Invert Image, Skew Image, Resizing Image
-- Algorithm for Noise removal, Dilation, Erosion,
+	- Algorithm for Grayscale image, Binary image, Invert Image, Skew Image, Resizing Image
+	- Algorithm for Noise removal, Dilation, Erosion,
 
-2. Feature extraction:
+	2. Feature extraction:
 
-- Alogirithm for Image segmentation, Block segment, Character Segment, Thinning, 
+	- Alogirithm for Image segmentation, Block segment, Character Segment, Thinning, 
 
-3. Recognition Phase:
+	3. Recognition Phase:
 
-- Normalize Input for recognition.
-- Kohonen Neural Network (Self Organize Mapping)
-- Unsupervise learning algorithm. 
+	- Normalize Input for recognition.
+	- Kohonen Neural Network (Self Organize Mapping)
+	- Unsupervise learning algorithm. 
 
-4. Reference
+	4. Reference
 
-- AForge Framework. (aforgenet.com)
-- OpenCV library. (opencv.org)
+	- AForge Framework. (aforgenet.com)
+	- OpenCV library. (opencv.org)
